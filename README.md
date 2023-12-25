@@ -1,4 +1,5 @@
 # WeatherApp
 This is my first Git Repository.
 <br>
-Author - Saira kh
+Author - Saira (Developer)
+
